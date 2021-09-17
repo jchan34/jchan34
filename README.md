@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jeffrey!
+- 👀 I’m interested in developing technology that impacts the world in meaningful ways.
+- 🌱 I’m currently learning about ML but also have interests in hardware development!
